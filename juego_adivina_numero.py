@@ -1,8 +1,5 @@
 """
 JUEGO: ADIVINA EL NÚMERO
-La computadora adivina el número que piensa el usuario
-Autores: Jorge Aguilar, Matías Quinteros
-Universidad Internacional del Ecuador
 """
 
 class JuegoAdivinaNumero:
@@ -182,4 +179,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
