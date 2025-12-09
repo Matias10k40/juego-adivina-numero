@@ -1,7 +1,7 @@
 """
 JUEGO: ADIVINA EL NÚMERO
 La computadora adivina el número que piensa el usuario
-Autores: Jorge Aguilar, Matías Quinteros, Dayanna Gaguancela, Alexander Agustín
+Autores: Jorge Aguilar, Matías Quinteros
 Universidad Internacional del Ecuador
 """
 
@@ -172,7 +172,7 @@ class InterfazUsuario:
             # Preguntar si desea continuar
             jugar = self.preguntar_jugar_nuevamente()
         
-        print("\n¡Gracias por jugar! Hasta pronto.\n")
+        print("\n¡Gracias por jugar!\n")
 
 
 def main():
