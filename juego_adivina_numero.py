@@ -3,7 +3,6 @@ JUEGO: ADIVINA EL NÚMERO
 """
 
 class JuegoAdivinaNumero:
-    """Capa Lógica: Contiene el algoritmo de búsqueda binaria"""
     
     def __init__(self):
         self.numero_minimo = 0
@@ -181,3 +180,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
